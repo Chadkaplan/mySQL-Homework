@@ -1,3 +1,3 @@
 # mySQL-Homework
 
-![Working Bamazon Customer](Homework/Bamazon/assets/Bamazon.jpg)
+![Working Bamazon Customer](assets/Bamazon.jpg)
